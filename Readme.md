@@ -1,5 +1,5 @@
-# Investor-Behaviour-and-Market-Segmentation-Analysis
-1. Investor Behaviour and Market Segmentation Analysis
+# Investor-Behaviour-and-Market-Segmentation-Analysis<b>
+1. Investor Behaviour and Market Segmentation Analysis<b>
 1.1 cleaned and preprocessed data to ensure data accuracy and consistency.
 1.2 Performed statistical analysis and generated graphical representations of data using Excel.
 1.3 Established a SQL database, created, and verified database tables for efficient data management.
